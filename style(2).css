@@ -70,7 +70,7 @@
 
 /* HERO / BANNER IMAGE */
 .hero {
-  background-image: url('pic/background.jpg'); /* Your image file */
+  background-image: url('background.jpg'); /* Your image file */
   background-size: cover;      /* Cover entire area */
   background-position: center; /* Center the image */
   top: 50px;
