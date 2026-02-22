@@ -1,0 +1,12 @@
+body{
+   background-color:lightblue ;
+   margin: 0;
+   padding:20px ;
+}
+.top-right-image{
+   position: absolute;
+   right: 30px;
+   top: 20px;
+   width: 100px;
+   height: auto;
+}
